@@ -1,9 +1,9 @@
 {
-  "version": "0.2.1",
-  "notes": "New sculpted models for every unit in all eight factions, plus all seven buildings and all six tokens. Curly Tail, the Necro-mouser units and the Blooming Briar show their gear and thorns.",
-  "game": "builds/0.2.1/CrittersOfCalamity-win64.zip",
-  "gameSize": 47071103,
-  "gameSha256": "60098a8236605e98f7b828d9005010113ad7a9f93327b2c94f19d292ddde8580",
+  "version": "0.2.2",
+  "notes": "New faction: the Goat Cabal, with Purgatory, the Grimoire and five demons. Capybara Caravan rework (10 streams, new guest rules, Rejuvenate, revised Traded Goods).",
+  "game": "builds/0.2.2/CrittersOfCalamity-win64.zip",
+  "gameSize": 48139708,
+  "gameSha256": "634eed6e451333b278d4c18edb65648d32e3eb22d29cdfead38c71d7f36c0de8",
   "launcher": "launcher/Launcher.exe",
   "launcherVersion": "1.0.0"
 }

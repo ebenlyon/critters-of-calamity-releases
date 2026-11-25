@@ -1,0 +1,9 @@
+{
+  "version": "0.2.0",
+  "notes": "First launcher release. New HUD with side drawers, hover to read hand cards, all eight factions' abilities, Capybara Trader model.",
+  "game": "builds/0.2.0/CrittersOfCalamity-win64.zip",
+  "gameSize": 41591374,
+  "gameSha256": "6b207dbe6a901c8c640963cccae351fb4f886d4f0bbe8217bf37b6b85fb03d60",
+  "launcher": "launcher/Launcher.exe",
+  "launcherVersion": "1.0.0"
+}

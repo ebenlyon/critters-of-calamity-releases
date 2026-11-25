@@ -1,9 +1,9 @@
 {
-  "version": "0.2.0",
-  "notes": "First launcher release. New HUD with side drawers, hover to read hand cards, all eight factions' abilities, Capybara Trader model.",
-  "game": "builds/0.2.0/CrittersOfCalamity-win64.zip",
-  "gameSize": 41591374,
-  "gameSha256": "6b207dbe6a901c8c640963cccae351fb4f886d4f0bbe8217bf37b6b85fb03d60",
+  "version": "0.2.1",
+  "notes": "New sculpted models for every unit in all eight factions, plus all seven buildings and all six tokens. Curly Tail, the Necro-mouser units and the Blooming Briar show their gear and thorns.",
+  "game": "builds/0.2.1/CrittersOfCalamity-win64.zip",
+  "gameSize": 47071103,
+  "gameSha256": "60098a8236605e98f7b828d9005010113ad7a9f93327b2c94f19d292ddde8580",
   "launcher": "launcher/Launcher.exe",
   "launcherVersion": "1.0.0"
 }

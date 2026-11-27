@@ -1,9 +1,9 @@
 {
-  "version": "0.2.2",
-  "notes": "New faction: the Goat Cabal, with Purgatory, the Grimoire and five demons. Capybara Caravan rework (10 streams, new guest rules, Rejuvenate, revised Traded Goods).",
-  "game": "builds/0.2.2/CrittersOfCalamity-win64.zip",
-  "gameSize": 48139708,
-  "gameSha256": "634eed6e451333b278d4c18edb65648d32e3eb22d29cdfead38c71d7f36c0de8",
+  "version": "0.2.3",
+  "notes": "Battles and roll-offs use one 3-sided die; Brass Shield works in any battle; you choose which units take damage; many faction balance changes; crafted cards shown by your hand; table popups for Grimoire, Forage and Fire; Crusade panel; bigger text; brighter legal tiles.",
+  "game": "builds/0.2.3/CrittersOfCalamity-win64.zip",
+  "gameSize": 48147278,
+  "gameSha256": "c9ea30c6437c7cc76b262afbab6a3886787c38eb3ebac4ec0556f351a03071f3",
   "launcher": "launcher/Launcher.exe",
   "launcherVersion": "1.0.0"
 }

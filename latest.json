@@ -1,9 +1,9 @@
 {
-  "version": "0.2.3",
-  "notes": "Battles and roll-offs use one 3-sided die; Brass Shield works in any battle; you choose which units take damage; many faction balance changes; crafted cards shown by your hand; table popups for Grimoire, Forage and Fire; Crusade panel; bigger text; brighter legal tiles.",
-  "game": "builds/0.2.3/CrittersOfCalamity-win64.zip",
-  "gameSize": 48147278,
-  "gameSha256": "c9ea30c6437c7cc76b262afbab6a3886787c38eb3ebac4ec0556f351a03071f3",
+  "version": "0.2.4",
+  "notes": "Unearth now costs 1 resource of your choice and puts the card in your Hand; Curly Tail and Warband rebalance; Tanukis carry 2 coins and run on leaves; Tar Pits on streams and ruins; Riverkeeper's Don't Wallow; Forage discard pile; new choice popups (Spoils of War, Disruption, Marble Aqueduct); End phase popups; new theme colors; bigger Excavation cards.",
+  "game": "builds/0.2.4/CrittersOfCalamity-win64.zip",
+  "gameSize": 48149736,
+  "gameSha256": "4fa25c9ddddbdded5e7a105d613d723ee3e9b04e018ba001ad9026e017d16a67",
   "launcher": "launcher/Launcher.exe",
   "launcherVersion": "1.0.0"
 }

@@ -1,9 +1,9 @@
 {
-  "version": "0.2.6",
-  "notes": "Faction pick and turn order rolls use a six-sided die; the Capybara Trader's stall popup now appears for other players when it peddles onto their units; Damaged Anankian Chariot costs 1 Wood and 1 Stone; bigger Traded Goods text.",
-  "game": "builds/0.2.6/CrittersOfCalamity-win64.zip",
-  "gameSize": 48152006,
-  "gameSha256": "bc5c6f7f85736cb42080f1e52c03a3411090bac69e4e762697c2ce2113ffb55c",
+  "version": "0.2.7",
+  "notes": "New Settings window (main menu and the top bar) to change screen resolution and display mode; a change goes back after 15 seconds unless you click Keep. The launcher has a matching Settings button, and the game now starts at your screen's own resolution unless you pick another.",
+  "game": "builds/0.2.7/CrittersOfCalamity-win64.zip",
+  "gameSize": 48154909,
+  "gameSha256": "aa909ffa701bfebdfe17ad661855d02d39b2728432af0d2eafa77275c22854cf",
   "launcher": "launcher/Launcher.exe",
-  "launcherVersion": "1.0.0"
+  "launcherVersion": "1.1.0"
 }

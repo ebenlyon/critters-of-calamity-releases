@@ -1,9 +1,9 @@
 {
-  "version": "0.2.4",
-  "notes": "Unearth now costs 1 resource of your choice and puts the card in your Hand; Curly Tail and Warband rebalance; Tanukis carry 2 coins and run on leaves; Tar Pits on streams and ruins; Riverkeeper's Don't Wallow; Forage discard pile; new choice popups (Spoils of War, Disruption, Marble Aqueduct); End phase popups; new theme colors; bigger Excavation cards.",
-  "game": "builds/0.2.4/CrittersOfCalamity-win64.zip",
-  "gameSize": 48149736,
-  "gameSha256": "4fa25c9ddddbdded5e7a105d613d723ee3e9b04e018ba001ad9026e017d16a67",
+  "version": "0.2.5",
+  "notes": "Unearth pays the card's cost and crafts it again; Plague: Sickness summons Millions; Pilgrims deal no loser damage; Arise twice per turn; Furious Lashing hits 1 unit within 2; Thistle Barrage lets you pick resources; Crucifixion replaces the Level 4 buff and Cleanse; Ignite comes after all Fire Tiles; Citadel setup ring; Miasma placed last; Necrosis blast indicator; battle popups name the attacker and defender; Crusade panel can be minimized; Riverkeeper stands out.",
+  "game": "builds/0.2.5/CrittersOfCalamity-win64.zip",
+  "gameSize": 48151972,
+  "gameSha256": "d1024063471b85afe280a38bfb1978827bb8a3053225c33c25d0fb758aa08d0e",
   "launcher": "launcher/Launcher.exe",
   "launcherVersion": "1.0.0"
 }

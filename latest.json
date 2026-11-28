@@ -1,9 +1,9 @@
 {
-  "version": "0.2.7",
-  "notes": "New Settings window (main menu and the top bar) to change screen resolution and display mode; a change goes back after 15 seconds unless you click Keep. The launcher has a matching Settings button, and the game now starts at your screen's own resolution unless you pick another.",
-  "game": "builds/0.2.7/CrittersOfCalamity-win64.zip",
-  "gameSize": 48154909,
-  "gameSha256": "aa909ffa701bfebdfe17ad661855d02d39b2728432af0d2eafa77275c22854cf",
+  "version": "0.2.8",
+  "notes": "Easier to read rules: the Rulebook and Factions pages have more line spacing, a gap between paragraphs, proper bullet and step indents, and bold labels on each rule. The My Faction drawer scrolls at a readable size with one meter per line.",
+  "game": "builds/0.2.8/CrittersOfCalamity-win64.zip",
+  "gameSize": 48155390,
+  "gameSha256": "9c2c3a1d96e9a54f0856b8e8855bda2ec8725b6937fe96d1f963823247241a64",
   "launcher": "launcher/Launcher.exe",
   "launcherVersion": "1.1.2"
 }

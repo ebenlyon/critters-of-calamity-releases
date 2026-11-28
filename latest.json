@@ -1,9 +1,9 @@
 {
-  "version": "0.2.5",
-  "notes": "Unearth pays the card's cost and crafts it again; Plague: Sickness summons Millions; Pilgrims deal no loser damage; Arise twice per turn; Furious Lashing hits 1 unit within 2; Thistle Barrage lets you pick resources; Crucifixion replaces the Level 4 buff and Cleanse; Ignite comes after all Fire Tiles; Citadel setup ring; Miasma placed last; Necrosis blast indicator; battle popups name the attacker and defender; Crusade panel can be minimized; Riverkeeper stands out.",
-  "game": "builds/0.2.5/CrittersOfCalamity-win64.zip",
-  "gameSize": 48151972,
-  "gameSha256": "d1024063471b85afe280a38bfb1978827bb8a3053225c33c25d0fb758aa08d0e",
+  "version": "0.2.6",
+  "notes": "Faction pick and turn order rolls use a six-sided die; the Capybara Trader's stall popup now appears for other players when it peddles onto their units; Damaged Anankian Chariot costs 1 Wood and 1 Stone; bigger Traded Goods text.",
+  "game": "builds/0.2.6/CrittersOfCalamity-win64.zip",
+  "gameSize": 48152006,
+  "gameSha256": "bc5c6f7f85736cb42080f1e52c03a3411090bac69e4e762697c2ce2113ffb55c",
   "launcher": "launcher/Launcher.exe",
   "launcherVersion": "1.0.0"
 }
